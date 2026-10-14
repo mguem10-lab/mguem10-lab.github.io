@@ -1,0 +1,8 @@
+body { margin: 0; padding: 48px 20px; background: #edf2f8; color: #0b1628; font: 16px/1.6 system-ui, -apple-system, "Segoe UI", sans-serif; }
+main { max-width: 680px; margin: 0 auto; }
+h1 { font-size: 30px; line-height: 1.2; margin: 0 0 8px; }
+h2 { font-size: 18px; margin: 28px 0 6px; }
+p, li { color: rgba(11, 22, 40, 0.75); }
+small { color: rgba(11, 22, 40, 0.5); }
+a { color: #2457d6; }
+@media (prefers-color-scheme: dark) { body { background: #060b16; color: #edf3fc; } p, li { color: rgba(237, 243, 252, 0.72); } small { color: rgba(237, 243, 252, 0.5); } a { color: #8fb1ff; } }
